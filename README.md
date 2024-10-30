@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @XinyuanMO
-- 👀 I’m interested in NLP, speech syntheses, bird-watching and baking!
-- 🌱 I’m currently studying Phonetics
+- 👀 I’m interested in NLP, bird-watching and baking!
 
 
 <!---
